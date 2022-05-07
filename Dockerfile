@@ -6,7 +6,7 @@ COPY requirements.txt /requirements.txt
 
 RUN cd /
 RUN pip3 install -U pip && pip3 install -U -r requirements.txt
-RUN mkdir /Ajax-Extra-Features
-WORKDIR /Ajax-Extra-Features
+RUN mkdir /TYSON-AUTO-FILTER-BOT-EXTRA-FEATURES
+WORKDIR /TYSON-AUTO-FILTER-BOT-EXTRA-FEATURES
 COPY start.sh /start.sh
 CMD ["/bin/bash", "/start.sh"]
