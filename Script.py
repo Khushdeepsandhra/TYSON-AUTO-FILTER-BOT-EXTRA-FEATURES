@@ -58,7 +58,7 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂�
 
 <code>/batch https://t.me/brucebots/3 https://t.me/brucebots/8</code>
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/brucebots><b>brucebots</b></a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/brucebots><b></b></a>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
 Note:- Give a user details
 •/whois :-give a user full details"""
@@ -402,11 +402,11 @@ To Get Sticker ID
       
     START_KICK = """🚮 Removing Inactive Members This May Take A While..."""
       
-    ADMIN_REQUIRED = """❗<b>എന്നെ Admin ആക്കത്ത സ്ഥലത്ത് ഞാൻ നിക്കില്ല പോകുവാ Bii..Add Me Again with all admin rights.</b>"""
+    ADMIN_REQUIRED = """❗<b>𝐈 𝐃𝐨𝐧'𝐭 𝐊𝐧𝐨𝐰 𝐖𝐡𝐞𝐫𝐞 𝐭𝐨 𝐒𝐭𝐚𝐫𝐭 Bii..Add Me Again with all admin rights.</b>"""
       
     DKICK = """✔️ Kicked {} Deleted Accounts Successfully."""
       
-    FETCHING_INFO = """<b>ഇപ്പൊ എല്ലാം അടിച്ചുമാറ്റി തരാം...</b>"""
+    FETCHING_INFO = """<b>𝐍𝐨𝐰 𝐈 𝐜𝐚𝐧 𝐛𝐞𝐚𝐭 𝐞𝐯𝐞𝐫𝐲𝐭𝐡𝐢𝐧𝐠...</b>"""
       
     STATUS = """{}\n<b>Chat Member Status</b>**\n\n```<i>Recently``` - {}\n```Within Week``` - {}\n```Within Month``` - {}\n```Long Time Ago``` - {}\nDeleted Account - {}\nBot - {}\nUnCached - {}</i>
 """
