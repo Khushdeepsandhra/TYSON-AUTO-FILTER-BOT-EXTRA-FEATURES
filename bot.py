@@ -43,7 +43,7 @@ class Bot(Client):
 
     async def stop(self, *args):
         await super().stop()
-        logging.info("Restarting Ajax.")
+        logging.info("Restarting Dark.")
 
 
 app = Bot()
