@@ -402,7 +402,7 @@ To Get Sticker ID
       
     START_KICK = """🚮 Removing Inactive Members This May Take A While..."""
       
-    ADMIN_REQUIRED = """❗<b>𝐈 𝐃𝐨𝐧'𝐭 𝐊𝐧𝐨𝐰 𝐖𝐡𝐞𝐫𝐞 𝐭𝐨 𝐒𝐭𝐚𝐫𝐭 Bii..Add Me Again with all admin rights.</b>"""
+    ADMIN_REQUIRED = """❗<b>𝐈 𝐃𝐨𝐧'𝐭 𝐊𝐧𝐨𝐰 𝐖𝐡𝐞𝐫𝐞 𝐭𝐨 𝐒𝐭𝐚𝐫𝐭..𝐀𝐝𝐝 𝐌𝐞 𝐀𝐠𝐚𝐢𝐧 𝐰𝐢𝐭𝐡 𝐚𝐥𝐥 𝐚𝐝𝐦𝐢𝐧 𝐫𝐢𝐠𝐡𝐭𝐬.𝐁𝐲𝐞..</b>"""
       
     DKICK = """✔️ Kicked {} Deleted Accounts Successfully."""
       
