@@ -747,13 +747,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('⚚ 𝐀𝐃𝐃 𝐌𝐄 𝐓𝐎 𝐆𝐑𝐎𝐔𝐏 ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 💠', url='https://t.me/brucebots'),
-            InlineKeyboardButton('💠 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 💠', url='https://t.me/brucebots')
+            InlineKeyboardButton('💠 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 💠', url='https://t.me/MoRe_BoTs'),
+            InlineKeyboardButton('💠 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 💠', url='https://t.me/BoTs_UPdateS_2022')
             ],[      
             InlineKeyboardButton('♻️ 𝐇𝐄𝐋𝐏 ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ 𝐀𝐁𝐎𝐔𝐓 ♻️', callback_data='about')
             ],[
-            InlineKeyboardButton('✅ 𝐌𝐈𝐑𝐑𝐎𝐑 𝐆𝐑𝐎𝐔𝐏 ✅', url='https://t.me/KM_MIRROR_STORES')
+            InlineKeyboardButton('✅ 𝐌𝐈𝐑𝐑𝐎𝐑 𝐆𝐑𝐎𝐔𝐏 ✅', url='https://t.me/PB_ChaNneL_BoTs_2022')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -890,7 +890,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons= [[
-            InlineKeyboardButton('♥️ 𝐒𝐎𝐔𝐑𝐂𝐄 𝐂𝐎𝐃𝐄 ♥️', url='https://t.me/brucebots')
+            InlineKeyboardButton('♥️ 𝐒𝐎𝐔𝐑𝐂𝐄 𝐂𝐎𝐃𝐄 ♥️', url='https://t.me/MoRe_BoTs')
             ],[
             InlineKeyboardButton('🏠 𝐇𝐎𝐌𝐄 🏠', callback_data='start'),
             InlineKeyboardButton('🔐 𝐂𝐋𝐎𝐒𝐄 🔐', callback_data='close_data')
