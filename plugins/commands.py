@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('𝐔𝐏𝐃𝐀𝐓𝐄𝐒', url=f"https://t.me/brucebots")
+                InlineKeyboardButton('𝐔𝐏𝐃𝐀𝐓𝐄𝐒', url=f"https://t.me/BoTs_UPdateS_2022")
             ]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -41,13 +41,13 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ 𝐀𝐃𝐃 𝐌𝐄 𝐓𝐎 𝐆𝐑𝐎𝐔𝐏 ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 💠', url='https://t.me/brucebots'),
-            InlineKeyboardButton('💠 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 💠', url='https://t.me/brucebots')
+            InlineKeyboardButton('💠 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 💠', url='https://t.me/PB_ChaNneL_BoTs_2022'),
+            InlineKeyboardButton('💠 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 💠', url='https://t.me/BoTs_UPdateS_2022')
             ],[      
             InlineKeyboardButton('♻️ 𝐇𝐄𝐋𝐏 ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ 𝐀𝐁𝐎𝐔𝐓 ♻️', callback_data='about')
             ],[
-            InlineKeyboardButton('✅ 𝐌𝐈𝐑𝐑𝐎𝐑 𝐆𝐑𝐎𝐔𝐏 ✅', url='https://t.me/KM_MIRROR_STORES')
+            InlineKeyboardButton('✅ 𝐌𝐈𝐑𝐑𝐎𝐑 𝐆𝐑𝐎𝐔𝐏 ✅', url='https://t.me/MoRe_BoTs')
         ]]         
         reply_markup = InlineKeyboardMarkup(buttons)        
         await message.reply_photo(
@@ -84,13 +84,13 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ 𝐀𝐃𝐃 𝐌𝐄 𝐓𝐎 𝐆𝐑𝐎𝐔𝐏 ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 💠', url='https://t.me/MWUpdatez'),
-            InlineKeyboardButton('💠 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 💠', url='https://t.me/OpusTechz')
+            InlineKeyboardButton('💠 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 💠', url='https://t.me/PB_ChaNneL_BoTs_2022'),
+            InlineKeyboardButton('💠 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 💠', url='https://t.me/BoTs_UPdateS_2022')
             ],[      
             InlineKeyboardButton('♻️ 𝐇𝐄𝐋𝐏 ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ 𝐀𝐁𝐎𝐔𝐓 ♻️', callback_data='about')
             ],[
-            InlineKeyboardButton('✅ 𝐌𝐈𝐑𝐑𝐎𝐑 𝐆𝐑𝐎𝐔𝐏 ✅', url='https://t.me/KM_MIRROR_STORES')
+            InlineKeyboardButton('✅ 𝐌𝐈𝐑𝐑𝐎𝐑 𝐆𝐑𝐎𝐔𝐏 ✅', url='https://t.me/MoRe_BoTs')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
